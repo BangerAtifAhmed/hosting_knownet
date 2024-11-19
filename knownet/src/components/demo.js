@@ -1,4 +1,4 @@
-import React, { useState } from 'react'; // Removed useEffect as it's unused
+import React, { useState } from 'react'; // Removed useEffegssngct as it's unused
 import logo from "../img/knownetimg.png";
 import "./sign.css";
 import { Link, useNavigate } from 'react-router-dom';
