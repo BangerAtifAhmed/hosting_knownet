@@ -19,7 +19,7 @@ export default function ProfilePic({ changeprofile }) {
             }
         ).then(res => res.json()).then(data => setUrl(data.url)).catch(err => console.log(err));
 
-        //saving post
+        //saving post yjyj
 
     }
 
